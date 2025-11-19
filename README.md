@@ -3,7 +3,7 @@ Tableau project analyzing Citi Bike usage in NYC. Built three dashboards on ride
 
 
 # CSV Files
-https://drive.google.com/drive/folders/1NhBgnlArKS2kISV44Cl-JOexjGWTcllE?usp=drive_link
+https://drive.google.com/drive/folders/1NhBgnlArKS2kISV44Cl-JOexjGWTcllE?usp=sharing
 
 # Skills & Techniques Used
 ## Data preparation & modelling
